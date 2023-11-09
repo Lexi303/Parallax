@@ -8,19 +8,19 @@ body{
 }
 
 #rave-bg{
-    background-image: url(/rave.jpg);
+    background-image: url(rave.jpg);
 }
 
 #town-bg{
-    background-image: url(/town.jpg);
+    background-image: url(town.jpg);
 }
 
 #pixel-bg{
-    background-image: url(/pexels.jpg);
+    background-image: url(pexels.jpg);
 }
 
 #valley-bg{
-    background-image: url(/valley.jpg);
+    background-image: url(valley.jpg);
 }
 
 .fullscreen {
