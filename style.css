@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #e8cdb9;
+}
+
+#rave-bg{
+    background-image: url(/Images/rave.jpg);
+}
+
+#town-bg{
+    background-image: url(/Images/town.jpg);
+}
+
+#pixel-bg{
+    background-image: url(/Images/pexels.jpg);
+}
+
+#valley-bg{
+    background-image: url(/Images/valley.jpg);
+}
+
+.fullscreen {
+    height: 100vh;
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parallax > h2{
+    background-color: #a29b92c7;
+    color: coral;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+.content {
+    background-color: #d9bbd9;
+    padding: 50px;
+    text-align: center;
+}
+
